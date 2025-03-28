@@ -3,6 +3,12 @@ package Collection.Set;
 import java.util.Set;
 import java.util.TreeSet;
 
+/**
+ * 특징
+ * - 자동 정렬 O (오름차순)
+ * - 내부적으로 이진트리 구조
+ * - 느리지만 순서 보장
+ */
 public class TreeSetEx {
     public static void main(String[] args) {
         Set<Integer> scores = new TreeSet<>();
