@@ -1,4 +1,4 @@
-package utill;
+package Util;
 
 /**
  * 다형성 적용 - if 없이 하나의 타입으로 처리

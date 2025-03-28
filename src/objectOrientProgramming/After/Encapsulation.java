@@ -1,6 +1,6 @@
-package after;
+package objectOrientProgramming.After;
 
-import utill.Item;
+import Util.Item;
 
 public class Encapsulation {
     public static void main(String[] args) {

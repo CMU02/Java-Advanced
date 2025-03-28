@@ -1,4 +1,4 @@
-package method;
+package Method;
 
 /**
  * 같은 이름의 메서드를 다양한 매개변수 형태로 정의

@@ -1,7 +1,7 @@
-package before;
+package objectOrientProgramming.Before;
 
-import utill.CardPaymentService;
-import utill.KaKaoPayService;
+import Util.CardPaymentService;
+import Util.KaKaoPayService;
 
 /**
  * 구현 클래스마다 별도 처리 -> if/else 남발

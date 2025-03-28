@@ -1,4 +1,4 @@
-package before;
+package objectOrientProgramming.Before;
 
 /**
  * 중복되는 코드가 여러 클래스에 반복

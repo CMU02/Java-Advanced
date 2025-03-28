@@ -1,4 +1,4 @@
-package before;
+package objectOrientProgramming.Before;
 
 /**
  * 필드가 공개되어 누구나 접근 가능

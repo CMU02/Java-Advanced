@@ -1,7 +1,7 @@
-package after;
+package objectOrientProgramming.After;
 
-import utill.CardPaymentService;
-import utill.KaKaoPayService;
+import Util.CardPaymentService;
+import Util.KaKaoPayService;
 
 public class Inheritance {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package utill;
+package Util;
 
 /**
  * 1. 공통 기능 상속 -> 중복 제거

@@ -1,9 +1,9 @@
-package after;
+package objectOrientProgramming.After;
 
-import utill.CardPaymentService;
-import utill.KaKaoPayService;
-import utill.OrderService;
-import utill.PaymentService;
+import Util.CardPaymentService;
+import Util.KaKaoPayService;
+import Util.OrderService;
+import Util.PaymentService;
 
 public class Polymorphism {
     public static void main(String[] args) {

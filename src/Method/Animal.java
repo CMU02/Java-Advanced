@@ -1,4 +1,4 @@
-package method;
+package Method;
 
 /**
  * 부모 클래스의 메서드를 자식 클래스에서 재정의

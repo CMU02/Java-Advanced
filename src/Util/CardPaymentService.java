@@ -1,4 +1,4 @@
-package utill;
+package Util;
 
 /**
  * extend -> 상속
